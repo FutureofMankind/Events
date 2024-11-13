@@ -1,5 +1,9 @@
 # Домашнее задание к занятию "3.Обработка событий"
 
+![CI](https://github.com/RomanMenshikov92/new-repo-ahj-homeworks-event-handling/actions/workflows/web.yml/badge.svg)
+
+[![Build status](https://ci.appveyor.com/api/projects/status/12tmda6tes4cm0q4?svg=true)](https://ci.appveyor.com/project/RomanMenshikov92/new-repo-ahj-homeworks-event-handling)
+
 Правила сдачи задания:
 
 1. **Важно**: в рамках этого ДЗ нужно использовать менеджер пакетов yarn (а значит, никакого `package-lock.json` в репозитории быть не должно)
