@@ -1,6 +1,6 @@
 # Домашнее задание к занятию "3.Обработка событий"
 
-
+![CI](https://github.com/<FutureofMankind>/<Events>/actions/workflows/web.yml/badge.svg)
 
 Правила сдачи задания:
 
