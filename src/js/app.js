@@ -8,9 +8,9 @@ const containerNumberThree = document.getElementById('numberThree');
 const homeWorkMenu = new HomeWorkMenu();
 
 homeWorkMenu.bindToDOM(containerNav);
-homeWorkMenu.bindTaskOneToDOM(containerNumberOne);
-homeWorkMenu.bindTaskTwoToDOM(containerNumberTwo);
-homeWorkMenu.bindTaskThreeToDOM(containerNumberThree);
+homeWorkMenu.bindNumberOneToDOM(containerNumberOne);
+homeWorkMenu.bindNumberTwoToDOM(containerNumberTwo);
+homeWorkMenu.bindNumberThreeToDOM(containerNumberThree);
 
 homeWorkMenu.drawUI();
 

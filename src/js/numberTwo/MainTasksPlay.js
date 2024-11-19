@@ -24,19 +24,19 @@ export default class MainTasksPlay {
 
     this.container.innerHTML = `
       <H2>
-        TOP Tasks
+        MAIN Tasks
       </H2>
-      <div class="top-tasks-container">
-        <div class="top-tasks-container__header">TOP Tasks</div>
+      <div class="main-tasks-container">
+        <div class="main-tasks-container__header">MAIN Tasks</div>
         <form data-id="filter" class="form">
           <input data-id="filter-text" class="field" name="filter-text" autocomplete="off">
           <button data-id="filter-text-add" class="filter-btn-add"></button>
         </form>
-        <div class="top-tasks-container__header">Pinned</div>
+        <div class="main-tasks-container__header">Pinned</div>
         <div data-id="pinned" class="pinned">
         
         </div>
-        <div class="top-tasks-container__header">All Task</div>
+        <div class="main-tasks-container__header">All Task</div>
         <div data-id="all-task" class="pinned">
 
         </div>

@@ -49,9 +49,9 @@ export default class HomeWorkMenu {
     this.checkBinding();
     this.container.innerHTML = `
       <div class="controls">
-        <button data-id="taskOne" class="btn">Задача № 1</button>
-        <button data-id="taskTwo" class="btn">Задача № 2</button>
-        <button data-id="taskThree" class="btn">Задача № 3</button>
+        <button data-id="numberOne" class="btn">Задача № 1</button>
+        <button data-id="numberTwo" class="btn">Задача № 2</button>
+        <button data-id="numberThree" class="btn">Задача № 3</button>
       </div>
     `;
 
@@ -76,7 +76,7 @@ export default class HomeWorkMenu {
     this.numberThreeInited = false;
   }
 
-  onnumberTwoClick(event) {
+  onNumberTwoClick(event) {
     event.preventDefault();
 
     this.numberRemover();
