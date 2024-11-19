@@ -4,7 +4,7 @@ import checkTask from './checkTask';
 
 export default class MainTasksControl {
   constructor(mainTasksPlay) {
-    this.topTasksPlay = topTasksPlay;
+    this.mainTasksPlay = mainTasksPlay;
     this.tasks = [
       { name: 'Сделать зарядку', pinned: false, show: true },
       { name: 'Приготовить завтрак', pinned: true, show: true },
