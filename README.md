@@ -1,6 +1,6 @@
 # Домашнее задание к занятию "3.Обработка событий"
 
-![CI](https://github.com/<FutureofMankind>/<Events>/actions/workflows/web.yml/badge.svg)
+[![Build status](https://ci.appveyor.com/api/projects/status/wyg29iaa1y18fhmo?svg=true)](https://ci.appveyor.com/project/FutureofMankind/events)
 
 Правила сдачи задания:
 
